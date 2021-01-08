@@ -1,1 +1,4 @@
 EM DESENVOLVIMENTO
+
+RODE NO CMD PARA BAIXAR A BIBLIOTECA:
+  •npm i --save venom-bot
